@@ -2,6 +2,7 @@ FORMAT DESCRIPTION
 ==================
 
 this format is download from sideeffect official website, and I only use this for study!
+
 drug_names.tsv and drug_atc.tsv contain the automatically generated drug names, and their ATC code. You might
 be able to retrieve better names via the ATC codes.
 
